@@ -1,7 +1,5 @@
 # Flash Loans
 
-### Flash Loans
-
 Zeno Lend is bringing Flash Loans to our money markets.
 
 Flash Loans allow developers access to undercollateralized loans, provided that the borrowed amount (and fee) is returned within one transaction block.
