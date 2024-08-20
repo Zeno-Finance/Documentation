@@ -2,7 +2,7 @@
 
 The roadmap lays out the planned features for Zeno Lend. These are all subject to change based on community feedback and governance discussions. Instead of fixed deadlines, we provide a list of priorities in order of priority, which allows us to more flexibly adapt to market trends without committing to a fixed schedule. While it is a priority list many are worked on in parallel so it doesn't necessarily indicate release order.
 
-Items in the Exploring category are on the backburner or merely in the research or ideation phase.&#x20;
+Items in the Exploring category are on the backburner or merely in the research or ideation phase.
 
 💛 = Our Accomplishments
 
@@ -14,7 +14,6 @@ Items in the Exploring category are on the backburner or merely in the research 
 ### Upcoming <a href="#upcoming" id="upcoming"></a>
 
 * Mainnet launch.
-* Publish platform smart contracts.
 * Integration with Dune Analytics for comprehensive TVL and volume monitoring.
 * Listing on DeFiLama.
 * Integrating with The Graph for enhanced data querying and analysis.
@@ -34,8 +33,8 @@ Items in the Exploring category are on the backburner or merely in the research 
 
 ### Done! <a href="#done" id="done"></a>
 
-* Successful launch on the  taiko testnet.
+* Successful launch on the taiko testnet.
   * Launched on movement network and apechain testnet.
 * Launching a Medium and linked page for team and platform updates.
 * Launched a Zealy campaign for community engagement.
-
+* Publish platform smart contracts.
