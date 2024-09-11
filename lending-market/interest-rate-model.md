@@ -47,13 +47,13 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 | ---------------- | ------------------------------------------ |
 | Tokens           | USDC,DAI                                   |
 | Base             | 0%                                         |
-| Multiplier       | 18%                                        |
+| Multiplier       | 13%                                        |
 | JumpMultiplier   | 800%                                       |
 | Kink 1           | 80%                                        |
 | Kink 2           | 90%                                        |
 | Contract Address | 0x155A08107990070B08e17F21CdC7b25A57C4bbe8 |
 
-## Usdt <a href="#governance" id="governance"></a>
+## Tusd <a href="#governance" id="governance"></a>
 
 <figure><img src="../.gitbook/assets/stable18.png" alt=""><figcaption></figcaption></figure>
 
