@@ -31,7 +31,7 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 | Parameter        | Value                                      |
 | ---------------- | ------------------------------------------ |
 | Category         | Major                                      |
-| Tokens           | WETH                                       |
+| Tokens           | WETH, WBTC                                 |
 | Base             | 0%                                         |
 | Multiplier       | 15%                                        |
 | JumpMultiplier   | 500%                                       |
@@ -41,17 +41,35 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 
 ## Stable <a href="#stable" id="stable"></a>
 
-<figure><img src="../.gitbook/assets/stable18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stable18 (1).png" alt=""><figcaption></figcaption></figure>
 
 | Parameter        | Value                                      |
 | ---------------- | ------------------------------------------ |
-| Tokens           | USDT, USDC                                 |
+| Tokens           | USDC,DAI                                   |
 | Base             | 0%                                         |
 | Multiplier       | 18%                                        |
 | JumpMultiplier   | 800%                                       |
 | Kink 1           | 80%                                        |
 | Kink 2           | 90%                                        |
 | Contract Address | 0x155A08107990070B08e17F21CdC7b25A57C4bbe8 |
+
+## Usdt <a href="#governance" id="governance"></a>
+
+<figure><img src="../.gitbook/assets/stable18.png" alt=""><figcaption></figcaption></figure>
+
+\
+
+
+| Parameter        | Value                                      |
+| ---------------- | ------------------------------------------ |
+| Category         | Stable                                     |
+| Tokens           | USDT                                       |
+| Base             | 0%                                         |
+| Multiplier       | 18%                                        |
+| JumpMultiplier   | 800%                                       |
+| Kink 1           | 80%                                        |
+| Kink 2           | 90%                                        |
+| Contract Address | 0x8CfBD27F4a990C270CF50CCd942281092b73A6bF |
 
 ## Governance <a href="#governance" id="governance"></a>
 
@@ -60,7 +78,7 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 | Parameters       | Value                                      |
 | ---------------- | ------------------------------------------ |
 | Category         | Governance                                 |
-| Tokens           |                                            |
+| Tokens           | Coming soon                                |
 | Base             | 0%                                         |
 | Multiplier       | 20%                                        |
 | JumpMultiplier   | 500%                                       |

@@ -33,8 +33,8 @@ Items in the Exploring category are on the backburner or merely in the research 
 
 ### Done! <a href="#done" id="done"></a>
 
-* Successful launch on the taiko testnet.
-  * Launched on movement network and apechain testnet.
-* Launching a Medium and linked page for team and platform updates.
+* Successful launch on the 5 testnet networks.
+* Launching a Medium/Telegram and linked in page for team and platform updates.
 * Launched a Zealy campaign for community engagement.
 * Publish platform smart contracts.
+* Released a faucet app for our community

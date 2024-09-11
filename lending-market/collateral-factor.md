@@ -10,8 +10,8 @@ Reserve Factor is the percentage of interest paid to Zeno Lend. For example, if 
 
 | Token | Collateral Factor | Reserve Factor |
 | ----- | ----------------- | -------------- |
-| WETH  | 85%               | 15%            |
-| USDT  | 80%               | 15%            |
+| WAPE  | 75%               | 20%            |
+| TUSD  | 80%               | 20%            |
 | USDC  | 85%               | 15%            |
-| TAIKO | 50%               | 20%            |
-
+| DAI   | 85%               | 15%            |
+| WBTC  | 85%               | 15%            |

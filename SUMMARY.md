@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Flash Loans](flash-loans.md)
+* [Faucet](faucet.md)
 * [RoadMap](roadmap.md)
 
 ## LENDING MARKET

@@ -21,4 +21,4 @@ While we believe in pyth providing accurate token price, it is still important t
 
 Only when pyth provides a stale price will we toggle the oracle using the Guardian.
 
-Price Oracle Address  0x28851f391159E191D1EAFe9edA21560D3CF60b13
+Price Oracle Address 0x09D5db2523cAB159c1cb9640883C40929179999F
