@@ -1,6 +1,6 @@
 # Protocol Contracts
 
-### Taiko Testnet
+### Apechain Testnet
 
 | Contract       | Upgradability | Address                                    |
 | -------------- | ------------- | ------------------------------------------ |
