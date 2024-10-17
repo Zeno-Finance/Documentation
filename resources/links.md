@@ -2,9 +2,7 @@
 
 ### **News & Social**
 
-Backup Twitter: [https://x.com/ZenoLend](https://x.com/ZenoLend)
-
-Twitter: [https://x.com/ArtangleNFT](https://x.com/ArtangleNFT)
+Twitter: [https://x.com/ZenoLend](https://x.com/ZenoLend)
 
 Discord: [https://discord.com/invite/ZenoLend](https://discord.com/invite/8fWJJscp73)
 
