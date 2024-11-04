@@ -1,7 +1,5 @@
 # iToken Error Code
 
-
-
 ### Error codes <a href="#error-codes" id="error-codes"></a>
 
 | Code | Name                              | Description                                                                                                                                                                  |

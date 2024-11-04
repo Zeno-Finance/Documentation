@@ -13,7 +13,7 @@ Items in the Exploring category are on the backburner or merely in the research 
 
 ### Upcoming <a href="#upcoming" id="upcoming"></a>
 
-* Mainnet launch.
+* Mainnet launch.(movement, hemi, soneium etc)
 * Integration with Dune Analytics for comprehensive TVL and volume monitoring.
 * Listing on DeFiLama.
 * Integrating with The Graph for enhanced data querying and analysis.
@@ -33,8 +33,10 @@ Items in the Exploring category are on the backburner or merely in the research 
 
 ### Done! <a href="#done" id="done"></a>
 
+* Live on Apechain Mainnet
 * Successful launch on the 5 testnet networks.
 * Launching a Medium/Telegram and linked in page for team and platform updates.
 * Launched a Zealy campaign for community engagement.
 * Publish platform smart contracts.
 * Released a faucet app for our community
+

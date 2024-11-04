@@ -2,14 +2,8 @@
 
 All iTokens are upgradable via CTokenAdmin under a 2 day time lock.
 
-### Apechain Testnet
+### Apechain Mainnet
 
 #### Active Markets
 
-| Contract | Address                                    | Flash Loans |
-| -------- | ------------------------------------------ | ----------- |
-| iDAI     | 0x7c29Da730B3cEc71fAffE738c4408c7bE3B6B61c | Yes         |
-| iUSDC    | 0x1F35e4fE52c03811CD4DB8186B5fAc3a4B4B818A | Yes         |
-| iTUSD    | 0xD36C3359906781a23eB57bf560B7AD08F2C2db36 | Yes         |
-| iWAPE    | 0xb8faCa77057DBE98b45273060658Cf25Ef4a94bc | Yes         |
-| IWBTC    | 0x71b2607BfF2d213082180c267A226e5291319116 | Yes         |
+<table><thead><tr><th>Contract</th><th width="364">Address</th><th>Flash Loans</th></tr></thead><tbody><tr><td>iWAPE</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x12FD243d2acD58aFF01b1f5d8D5847b9abFB0A18">0x12FD243d2acD58aFF01b1f5d8D5847b9abFB0A18</a></td><td>Yes</td></tr><tr><td>iapeUSD</td><td><a href="https://apechain.calderaexplorer.xyz/address/0xBafb6f117d45C3A35F49D72a8AE84881FFF00eC3">0xBafb6f117d45C3A35F49D72a8AE84881FFF00eC3</a></td><td>Yes</td></tr><tr><td>iapeETH</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x83fBdE38aD7c4F24eDed9270FfFfBA152C7CD03A">0x83fBdE38aD7c4F24eDed9270FfFfBA152C7CD03A</a></td><td>Yes</td></tr></tbody></table>

@@ -28,63 +28,30 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 
 <figure><img src="../.gitbook/assets/major.png" alt=""><figcaption></figcaption></figure>
 
-| Parameter        | Value                                      |
-| ---------------- | ------------------------------------------ |
-| Category         | Major                                      |
-| Tokens           | WETH, WBTC                                 |
-| Base             | 0%                                         |
-| Multiplier       | 15%                                        |
-| JumpMultiplier   | 500%                                       |
-| Kink 1           | 80%                                        |
-| Kink 2           | 90%                                        |
-| Contract Address | 0x113FB3cADAB4a7D1Fd89607Bb6a105eD0d313167 |
+| Parameter        | Value                                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Category         | Major                                                                                                                                 |
+| Tokens           | WAPE, APEETH                                                                                                                          |
+| Base             | 0%                                                                                                                                    |
+| Multiplier       | 15%                                                                                                                                   |
+| JumpMultiplier   | 500%                                                                                                                                  |
+| Kink 1           | 80%                                                                                                                                   |
+| Kink 2           | 90%                                                                                                                                   |
+| Contract Address | [0x1A576FEB561E33324dfE3b5644679d58275e554F](https://apechain.calderaexplorer.xyz/address/0x1A576FEB561E33324dfE3b5644679d58275e554F) |
 
 ## Stable <a href="#stable" id="stable"></a>
 
 <figure><img src="../.gitbook/assets/stable18 (1).png" alt=""><figcaption></figcaption></figure>
 
-| Parameter        | Value                                      |
-| ---------------- | ------------------------------------------ |
-| Tokens           | USDC,DAI                                   |
-| Base             | 0%                                         |
-| Multiplier       | 13%                                        |
-| JumpMultiplier   | 800%                                       |
-| Kink 1           | 80%                                        |
-| Kink 2           | 90%                                        |
-| Contract Address | 0x155A08107990070B08e17F21CdC7b25A57C4bbe8 |
-
-## Tusd <a href="#governance" id="governance"></a>
-
-<figure><img src="../.gitbook/assets/stable18.png" alt=""><figcaption></figcaption></figure>
-
-\
-
-
-| Parameter        | Value                                      |
-| ---------------- | ------------------------------------------ |
-| Category         | Stable                                     |
-| Tokens           | USDT                                       |
-| Base             | 0%                                         |
-| Multiplier       | 18%                                        |
-| JumpMultiplier   | 800%                                       |
-| Kink 1           | 80%                                        |
-| Kink 2           | 90%                                        |
-| Contract Address | 0x8CfBD27F4a990C270CF50CCd942281092b73A6bF |
-
-## Governance <a href="#governance" id="governance"></a>
-
-<figure><img src="../.gitbook/assets/Gov.png" alt=""><figcaption></figcaption></figure>
-
-| Parameters       | Value                                      |
-| ---------------- | ------------------------------------------ |
-| Category         | Governance                                 |
-| Tokens           | Coming soon                                |
-| Base             | 0%                                         |
-| Multiplier       | 20%                                        |
-| JumpMultiplier   | 500%                                       |
-| Kink 1           | 70%                                        |
-| Kink 2           | 80%                                        |
-| Contract Address | 0xcE7417F1dba9E3b25E8F883f69a43aFE5A818404 |
+| Parameter        | Value                                                                                                                                                    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tokens           | APEUSD                                                                                                                                                   |
+| Base             | 0%                                                                                                                                                       |
+| Multiplier       | 13%                                                                                                                                                      |
+| JumpMultiplier   | 800%                                                                                                                                                     |
+| Kink 1           | 80%                                                                                                                                                      |
+| Kink 2           | 90%                                                                                                                                                      |
+| Contract Address | [0xB1706c6EDA5c0fBD078140EAE977C92947Dd7322](https://apechain.calderaexplorer.xyz/address/0xB1706c6EDA5c0fBD078140EAE977C92947Dd7322?tab=read\_contract) |
 
 [\
 ](https://docs.ib.xyz/v/optimism/lending-market/collateral-factor)

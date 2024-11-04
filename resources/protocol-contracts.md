@@ -1,12 +1,5 @@
 # Protocol Contracts
 
-### Apechain Testnet
+### Apechain Mainnet
 
-| Contract       | Upgradability | Address                                    |
-| -------------- | ------------- | ------------------------------------------ |
-| Unitroller     | Yes           | 0x0d286e2Cfb7d354111C6c76AAaDbD6E64198667c |
-| Admin Multisig | No            | 0x7F5AA3656B9291b9F3eEA4916282f08DdA68A348 |
-| Lens           | No            | 0x46e8A9D21314FD49f34EEC6ac3C2Ae69749e8154 |
-| CTokenAdmin    | No            | 0x2577e6088F23b87141eFCc34F3227b9793D3D740 |
-| Price Oracle   | No            | 0x09D5db2523cAB159c1cb9640883C40929179999F |
-| Guardian       | No            | 0x7F5AA3656B9291b9F3eEA4916282f08DdA68A348 |
+<table><thead><tr><th>Contract</th><th width="132">Upgradability</th><th>Address</th></tr></thead><tbody><tr><td>Unitroller</td><td>Yes</td><td><a href="https://apechain.calderaexplorer.xyz/address/0xc2C583093Af9241E17B2Ec51844154468D21bF6F">0xc2C583093Af9241E17B2Ec51844154468D21bF6F</a></td></tr><tr><td>Admin Multisig</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x7509271263fa1dDB1e4cf17D036a62bdD4625511">0x7509271263fa1dDB1e4cf17D036a62bdD4625511</a></td></tr><tr><td>Guardian</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x741727E3512bF04A048E4Ad69F79e44F4dF30530">0x741727E3512bF04A048E4Ad69F79e44F4dF30530</a></td></tr><tr><td>Lens</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x86b7485d0bd97234156D4Dea3FacF81Be442B813">0x86b7485d0bd97234156D4Dea3FacF81Be442B813</a></td></tr><tr><td>CTokenAdmin</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x272C7265f1753638Fc17d6613ADF3e8E53Eb153c">0x272C7265f1753638Fc17d6613ADF3e8E53Eb153c</a></td></tr><tr><td>Price Oracle</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x0c449E0B7B700C3dF2249184589d60250Dc43aDb">0x0c449E0B7B700C3dF2249184589d60250Dc43aDb</a></td></tr><tr><td>Maximillion</td><td>No</td><td><a href="https://apechain.calderaexplorer.xyz/address/0x0f6f5c9892f91e6E137Cc2C7A167fd6Cf33E3449">0x0f6f5c9892f91e6E137Cc2C7A167fd6Cf33E3449</a></td></tr></tbody></table>

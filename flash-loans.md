@@ -29,4 +29,3 @@ function flashLoan(
 ```
 
 Not all markets have Flash Loans. Check out [iToken page](resources/itoken-addresses.md)
-
