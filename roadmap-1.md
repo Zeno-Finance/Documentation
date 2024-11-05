@@ -10,6 +10,8 @@ Medium: [https://zenolend.medium.com/](https://zenolend.medium.com/)
 
 Telegram: [https://t.me/zenoLend](https://t.me/zenoLend)
 
+Youtube: [https://www.youtube.com/@ZenoLendprotocol](https://www.youtube.com/@ZenoLendprotocol)
+
 ### **Products & Info**
 
 Homepage: [https://www.zeno.finance/](https://www.zeno.finance/)
@@ -17,3 +19,5 @@ Homepage: [https://www.zeno.finance/](https://www.zeno.finance/)
 Github: [https://github.com/Zeno-Finance](https://github.com/Zeno-Finance)
 
 Faucet: [https://faucet.zeno.finance/](https://faucet.zeno.finance/)
+
+Defillama: [https://defillama.com/protocol/zenolend#information](https://defillama.com/protocol/zenolend#information)
