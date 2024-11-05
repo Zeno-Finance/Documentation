@@ -25,6 +25,7 @@
 
 * [Protocol Contracts](resources/protocol-contracts.md)
 * [iToken Addresses](resources/itoken-addresses.md)
+* [Brand Kit](resources/brand-kit.md)
 
 ***
 
