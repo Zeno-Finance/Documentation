@@ -13,30 +13,24 @@ Items in the Exploring category are on the backburner or merely in the research 
 
 ### Upcoming <a href="#upcoming" id="upcoming"></a>
 
-* Mainnet launch.(movement, hemi, soneium etc)
 * Integration with Dune Analytics for comprehensive TVL and volume monitoring.
-* Listing on DeFiLama.
 * Integrating with The Graph for enhanced data querying and analysis.
-* Launching a Galxe/Wonderverse campaign for community engagement.
 * Full audit of the smart contract codebase.
 * Introducing a governance aspect for the platform.
-* Expanding the core team.
 
 ### Exploring <a href="#exploring" id="exploring"></a>
 
 * Introducing a platform-native token.
 * Implementing staking functionality.
 * Launching liquidity mining programs.
-* Expanding into protocol-to-protocol lending.
 * Exploring decentralized web hosting using IPFS.
 * Launching an airdrop for our day one OGs.
 
 ### Done! <a href="#done" id="done"></a>
 
-* Live on Apechain Mainnet
-* Successful launch on the 5 testnet networks.
-* Launching a Medium/Telegram and linked in page for team and platform updates.
-* Launched a Zealy campaign for community engagement.
+* Live on 5 Mainnet networks.
+* Launched Zealy and galxe campaigns for community engagement.
 * Publish platform smart contracts.
 * Released a faucet app for our community
+* Listed on defi Lamma
 
