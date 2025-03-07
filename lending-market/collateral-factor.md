@@ -2,18 +2,14 @@
 
 ### Collateral Factor
 
-Collateral Factor is the power to borrow against a particular token. For example, if collateral factor of ETH is 80%, that means for every $100 of ETH you can borrow $80 worth of other assets.
+Collateral Factor is the power to borrow against a particular token. For example, if collateral factor of WAPE is 50%, that means for every $1000 of WAPE you can borrow $500 worth of other assets.
 
 ### Reserve Factor <a href="#reserve-factor" id="reserve-factor"></a>
 
-Reserve Factor is the percentage of interest paid to Zeno Lend. For example, if reserve factor of ETH is 10%, that means 10% interest of ETH is paid to protocol reserve.
+Reserve Factor is the percentage of interest paid to Zeno Lend. For example, if reserve factor of WAPE is 5%, that means 5% interest of WAPE is paid to protocol reserves.
 
-\
-
-
-| Token   | Collateral Factor | Reserve Factor |
-| ------- | ----------------- | -------------- |
-| WETH    | 85%               | 30%            |
-| USDT    | 75%               | 40%            |
-| USDC    | 80%               | 30%            |
-| ASTAR.e | 80%               | 30%            |
+| Token  | Collateral Factor | Reserve Factor |
+| ------ | ----------------- | -------------- |
+| WAPE   | 60%               | 25%            |
+| APEUSD | 75%               | 25%            |
+| APETH  | 80%               | 25%            |
