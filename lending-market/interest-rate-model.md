@@ -28,16 +28,16 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 
 <figure><img src="../.gitbook/assets/major.png" alt=""><figcaption></figcaption></figure>
 
-| Parameter        | Value                                                    |
-| ---------------- | -------------------------------------------------------- |
-| Category         | Major                                                    |
-| Tokens           | WETH, ASTR, nsASTR, WBTC,  pufETH,  solvBTC, solvBTC.BBN |
-| Base             | 0%                                                       |
-| Multiplier       | 15%                                                      |
-| JumpMultiplier   | 500%                                                     |
-| Kink 1           | 80%                                                      |
-| Kink 2           | 90%                                                      |
-| Contract Address | 0xB4375CecF22F4c8aEF56308C3837D1f59425f5c9               |
+| Parameter        | Value                                      |
+| ---------------- | ------------------------------------------ |
+| Category         | Major                                      |
+| Tokens           | WIP, VIP, WETH                             |
+| Base             | 0%                                         |
+| Multiplier       | 15%                                        |
+| JumpMultiplier   | 500%                                       |
+| Kink 1           | 80%                                        |
+| Kink 2           | 90%                                        |
+| Contract Address | 0xB4375CecF22F4c8aEF56308C3837D1f59425f5c9 |
 
 ## Stable <a href="#stable" id="stable"></a>
 

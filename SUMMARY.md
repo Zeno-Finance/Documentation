@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Farming](farming.md)
 * [Flash Loans](flash-loans.md)
 
 ## LENDING MARKET
