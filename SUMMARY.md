@@ -1,17 +1,14 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Farming](farming.md)
 * [Flash Loans](flash-loans.md)
-* [Faucet](faucet.md)
-* [RoadMap](roadmap.md)
-* [Links](roadmap-1.md)
 
 ## LENDING MARKET
 
 * [Collateral Factor](lending-market/collateral-factor.md)
 * [Interest Rate Model](lending-market/interest-rate-model.md)
 * [Price Oracle](lending-market/price-oracle.md)
-* [Delist](lending-market/delist.md)
 
 ## DEVELOPERS
 
@@ -25,8 +22,3 @@
 
 * [Protocol Contracts](resources/protocol-contracts.md)
 * [iToken Addresses](resources/itoken-addresses.md)
-* [Brand Kit](resources/brand-kit.md)
-
-***
-
-* [Earn](earn.md)
