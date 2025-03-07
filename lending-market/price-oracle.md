@@ -4,4 +4,4 @@
 
 | Contract            | Address                                    |
 | ------------------- | ------------------------------------------ |
-| PriceOracleProxyZen | 0x0c449E0B7B700C3dF2249184589d60250Dc43aDb |
+| PriceOracleProxyZen | 0x7D68b84edaF5288cFf6bF9326424e5eB853aae16 |
