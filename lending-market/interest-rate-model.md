@@ -31,7 +31,7 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 | Parameter        | Value                                                                                                                                 |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Category         | Major                                                                                                                                 |
-| Tokens           | WAPE, APEETH                                                                                                                          |
+| Tokens           | WAPE, APEETH, WETH                                                                                                                    |
 | Base             | 0%                                                                                                                                    |
 | Multiplier       | 15%                                                                                                                                   |
 | JumpMultiplier   | 500%                                                                                                                                  |
@@ -45,7 +45,7 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 
 | Parameter        | Value                                                                                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tokens           | APEUSD                                                                                                                                                  |
+| Tokens           | APEUSD, USDC, USDT                                                                                                                                      |
 | Base             | 0%                                                                                                                                                      |
 | Multiplier       | 13%                                                                                                                                                     |
 | JumpMultiplier   | 800%                                                                                                                                                    |
